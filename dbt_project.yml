@@ -36,4 +36,4 @@ models:
     dims:
       +materialized: table
     src:
-      +materialized: view
+      +materialized: ephemeral
